@@ -25,7 +25,7 @@ const BLOG = {
   CUSTOM_MENU: process.env.NEXT_PUBLIC_CUSTOM_MENU || true, // 支持Menu 类型，从3.12.0版本起，各主题将逐步支持灵活的二级菜单配置，替代了原来的Page类型，此配置是试验功能、默认关闭。
 
   AUTHOR: process.env.NEXT_PUBLIC_AUTHOR || '毛豆生北国', // 您的昵称 例如 malldoo
-  BIO: process.env.NEXT_PUBLIC_BIO || '当你选择了会计这行当以后， 你可能真的很难再跨越； 当你选择了出国工作以后， 你可能真的很难回头。 当你两个都选择了以后， 你就不得不爱上这苦逼行当。 —财税行业里的一个草根🍚', // 作者简介
+  BIO: process.env.NEXT_PUBLIC_BIO || '当你选择了会计这行当以后， 你可能真的很难再跨越；     当你选择了出国工作以后，     你可能真的很难回头。    当你两个都选择了以后， 你就不得不爱上这苦逼行当。 —财税行业里的一个草根🍚', // 作者简介
   LINK: process.env.NEXT_PUBLIC_LINK || 'https://www.malldoo.com', // 网站地址
   KEYWORDS: process.env.NEXT_PUBLIC_KEYWORD || '财务,税务,境外,贸易,会计,经理', // 网站关键词 英文逗号隔开
 
